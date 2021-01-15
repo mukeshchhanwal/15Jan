@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="190294" started-at="2021-01-15T13:10:26Z" finished-at="2021-01-15T13:13:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="190294" started-at="2021-01-15T13:10:26Z" finished-at="2021-01-15T13:13:36Z">
+      <class name="com.test.UsefullLinkTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="25799" started-at="2021-01-15T13:10:26Z" finished-at="2021-01-15T13:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyMainHeading()[pri:1, instance:com.test.UsefullLinkTest@67b872]" name="verifyMainHeading" duration-ms="390" started-at="2021-01-15T13:10:52Z" finished-at="2021-01-15T13:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMainHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="203" started-at="2021-01-15T13:10:52Z" finished-at="2021-01-15T13:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="22631" started-at="2021-01-15T13:10:52Z" finished-at="2021-01-15T13:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifysubHeading()[pri:2, instance:com.test.UsefullLinkTest@67b872]" name="verifysubHeading" duration-ms="747" started-at="2021-01-15T13:11:15Z" finished-at="2021-01-15T13:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysubHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="181" started-at="2021-01-15T13:11:16Z" finished-at="2021-01-15T13:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="17093" started-at="2021-01-15T13:11:16Z" finished-at="2021-01-15T13:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyheading()[pri:3, instance:com.test.UsefullLinkTest@67b872]" name="verifyheading" duration-ms="669" started-at="2021-01-15T13:11:33Z" finished-at="2021-01-15T13:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyheading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="89" started-at="2021-01-15T13:11:33Z" finished-at="2021-01-15T13:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="29267" started-at="2021-01-15T13:11:34Z" finished-at="2021-01-15T13:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="interviewQues()[pri:4, instance:com.test.UsefullLinkTest@67b872]" name="interviewQues" duration-ms="4915" started-at="2021-01-15T13:12:03Z" finished-at="2021-01-15T13:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interviewQues -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="82" started-at="2021-01-15T13:12:08Z" finished-at="2021-01-15T13:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="38043" started-at="2021-01-15T13:12:08Z" finished-at="2021-01-15T13:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="table1()[pri:5, instance:com.test.UsefullLinkTest@67b872]" name="table1" duration-ms="1959" started-at="2021-01-15T13:12:46Z" finished-at="2021-01-15T13:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- table1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="598" started-at="2021-01-15T13:12:48Z" finished-at="2021-01-15T13:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="28070" started-at="2021-01-15T13:12:48Z" finished-at="2021-01-15T13:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifytable2()[pri:6, instance:com.test.UsefullLinkTest@67b872]" name="verifytable2" duration-ms="1056" started-at="2021-01-15T13:13:16Z" finished-at="2021-01-15T13:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytable2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="963" started-at="2021-01-15T13:13:18Z" finished-at="2021-01-15T13:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="openBrowser" is-config="true" duration-ms="16366" started-at="2021-01-15T13:13:19Z" finished-at="2021-01-15T13:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifytable4()[pri:7, instance:com.test.UsefullLinkTest@67b872]" name="verifytable4" duration-ms="969" started-at="2021-01-15T13:13:35Z" finished-at="2021-01-15T13:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytable4 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefullLinkTest@67b872]" name="closeBrowser" is-config="true" duration-ms="105" started-at="2021-01-15T13:13:36Z" finished-at="2021-01-15T13:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.UsefullLinkTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
